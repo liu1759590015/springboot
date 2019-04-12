@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
+//lombok插件
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
